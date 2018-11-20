@@ -1,0 +1,6 @@
+.hidden {
+    display: none!important
+}
+html, body {
+    background-color: rgb(235,235,235);
+}
